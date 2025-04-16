@@ -1,4 +1,4 @@
-# todo-app
+# Dev Test using VueJS v3, Typescript
 
 This template should help get you started developing with Vue 3 in Vite.
 
